@@ -69,6 +69,6 @@ Tecnologias/bibliotecas utilizadas no projeto.
 
 
 ## Autor
-<p><h3>Walex Henrique</h3></p>
-  <p>Se curtiu, siga-me no github. Obrigado!</p>
+<ul><li><p><h3>Walex Henrique</h3></p></li></ul>
+<p>Se curtiu, siga-me no github. Obrigado!</p>
 
